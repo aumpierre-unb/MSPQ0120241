@@ -1,15 +1,12 @@
-# Engenharia de Reatores Químicos - IQD0048 - Turma T01 - 2023/2
+# Modelagem e Simulação de Processos Químicos - IQD0016 - Turma T01 - 2024/1
 
 ## Universidade de Brasília - Instituto de Química
-
-<!--## [Plano de Ensino](https://github.com/aumpierre-unb/ERQ0120232/raw/main/Plano_de_Ensino_Engenharia_de_Reatores_Quimicos_IQD0048T01_20232.pdf)
--->
 
 ### **Professor**
 
 Alexandre Umpierre
 
-IQD B1 53/3
+IQD BT xx/xx
 
 <aumpierre@unb.br>
 
@@ -17,29 +14,29 @@ IQD B1 53/3
 
 ### **Período letivo**
 
-2023/2
+2024/1
 
-De 25/08/2023 a 23/12/2023
+De 18/03/2024 a 15/07/2024
 
 ---
 
 ### **Horário e local das aulas**
 
-35M34, BSA S BT 34/13
+46M34, BSA S B1 41/13
 
 ---
 
 ### **Horário e local de atendimento aos alunos**
 
-24M34, IQD B1 53/3
+46T23, IQD BT xx/xx
 
-Nenhuma plataforma digital de comunicação será adotada.
+O atendimento aos alunos será *exclusivamente presencial*. Nenhuma plataforma digital de comunicação será adotada.
 
 ---
 
 ### **Objetivo**
 
-Apresentar os fundamentos da engenharia de reatores químicos, com ênfase em elementos de cinética química, balanços de massa e energia, reatores ideais e desvios de idealidade.
+Apresentar conceitos básicos sobre modelagem e modelos matemáticos usados em engenharia química, métodos de otimização, estratégias de simulação e simuladores comerciais mais populares entre os profissionais da área.
 
 ---
 
@@ -55,65 +52,33 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 ### **Programa**
 
-O conteúdo será dividido em quatro módulos:
+O conteúdo será dividido em três módulos:
 
-#### Módulo 1 - Reatores Batelada
+#### Módulo 1 - Modelagem
 
-Balanço material (volume constante)
+Conceitos básicos
 
-Balanço entálpico (volume constante)
+Modelos matemáticos teóricos, empíricos e icônicos
 
-Determinação da expressão da taxa de reação (volume constante)
+#### Módulo 2 - Otimização
 
-Balanço material (concentração constante)
+Conceitos e fundamentos de otimização
 
-#### Módulo 2 - Reatores Tubulares
+Busca univariável e multivariável com e sem restrições
 
-Balanços material e entálpico (meio incompressível)
+Métodos estocásticos e determinísticos
 
-Arranjos serial e paralelo (meio incompressível)
+Algoritmos de otimização
 
-Reator com refluxo (meio incompressível)
+#### Módulo 3 - Simulação
 
-Balanços material (meio compressível)
-
-Reator de leito empacotado
-
-Reator de leito fluidizado
-
-#### Módulo 3 - Reatores de Tanque Agitado
-
-Balanços material e entálpico
-
-Arranjos serial e paralelo
-
-Partida, parada e mudança de set-point
-
-Multiplicidade de estados estacionários
-
-#### Módulo 4 - Desvios de Idealidade
-
-Modelo de volume morto e by-pass
-
-Modelo de volume de troca
-
-Distribuição de tempo de residência
-
-Modelo de CSTR's em série
-
-Modelo de segregação
-
-Modelo de mistura completa
-
-Modelo de dispersão
-
-Modelo de PFR com regime laminar
+Simuladores comerciais
 
 ---
 
 ### **Avaliação**
 
-Ao longo do período serão realizadas quatro testes, *T*<sub>1</sub>, *T*<sub>2</sub>, *T*<sub>3</sub> e *T*<sub>4</sub>, versando sobre os respectivos módulos do programa, e dois trabalhos, *HW*<sub>1</sub>, versando sobre o primeiro e o segundo módulos, e *HW*<sub>2</sub>, versando sobre o terceiro e o quarto módulos.
+Ao longo do período serão realizadas três testes, *T*<sub>1</sub>, *T*<sub>2</sub> e *T*<sub>3</sub>, versando sobre os respectivos módulos do programa, e dois trabalhos, *HW*<sub>1</sub>, versando sobre o primeiro e o segundo módulos, e *HW*<sub>2</sub>, versando sobre o terceiro módulo.
 
 Os trabalhos serão realizados de forma assíncrona, em horário extraclasse. Os trabalhos podem ser resolvidos individualmente ou em duplas. O prazo para realização dos trabalhos é de 24 horas.
 
@@ -125,13 +90,15 @@ O desenvolvimento das respostas é critério fundamental de avaliação, devendo
 
 As avaliações realizadas de forma assíncrona devem, obrigatoriamente, ser elaboradas sobre um dos *templates*
 
-[https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.doc](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.doc) ou
+[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc) ou
 
-[https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.odt)
+[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx) ou
 
-e entregues em formato pdf por apenas um dos autores, intituladas de acordo com o exemplo:
+[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
 
-*ERQ_T01_20232_HW1_20231026_matriculasonumeros.pdf*
+e entregues em *formato pdf* por *apenas um dos autores*, intituladas de acordo com o exemplo:
+
+*MSPQ_T01_20241_HW1_yyyymmdd_matriculasonumeros.pdf*
 
 Não serão aceitos documentos em outros formatos nem links para repositórios em nuvem.
 
@@ -141,17 +108,15 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 ### **Datas das Avaliações**
 
-*T*<sub>1</sub> - 19/09/2023
+*T*<sub>1</sub> - xx/xx/2024
 
-*T*<sub>2</sub> - 17/10/2023
+*T*<sub>2</sub> - xx/xx/2024
 
-*HW*<sub>1</sub> - 24/10/2023
+*HW*<sub>1</sub> - xx/xx/2024
 
-*T*<sub>3</sub> - 14/11/2023
+*T*<sub>3</sub> - xx/xx/2024
 
-*T*<sub>4</sub> - 14/12/2023
-
-*HW*<sub>2</sub> - 19/12/2023
+*HW*<sub>2</sub> - xx/xx/2024
 
 ---
 
@@ -159,65 +124,47 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 #### **Bibliografia Básica**
 
-Fogler, S. H., *Essentials of Chemical Reaction Engineering*, Prentice Hall, **2011**.
+Rice, R. R.; Do, D. D. *Applied Mathematics and Modeling for Chemical Engineers*, John Wiley & Sons, **1995**.
 
-Gilbert F. Froment, Kenneth B. Bischoff, Juray de Wilde, *Chemical Reactor Analysis and Design*, Wiley, 3rd edition, **2010**.
+Babatunde A. Ogunnaike & W. Harmon Ray, *Process Dynamics, Modeling, and Control*, Oxford University Press, **1994**.
 
-Levenspiel, O., *Chemical Reaction Engineering*, John Wiley & Sons, Inc. **1998**.
+Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon, *Optimization of Chemical Processes*, 2nd Edition, McGraw-Hill, **2001**.
+
+Bequette, B. W. *Process Dynamics. Modeling, Analysis, and Simulation*, Prentice Hall, **1998**.
+
+Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, Mc-Graw-Hill, **1990**.
+
+Paulo Laranjeira e José Carlos Pinto, *Métodos Numéricos em Problemas de Engenharia Química*, E-papers, **2001**.
+
 
 #### **Bibliografia Complementar**
 
-Carberry, J. J., *Chemical and Catalytic Reaction Engineering*. Dover Publications. **2001**.
-
-Metcalfe, I. S., *Chemical Reaction Engineering: A First Course*. Oxford University Press. **1997**.
+xxxxxxx
 
 ---
 
 <!--### **Exercícios Propostos**
 
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_1.pdf) (07/04/2023)
+[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
 
-[exercicios_propostos_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_2.pdf) (29/04/2023)
+<!--### **Estudos Dirigidos**
 
-[exercicios_propostos_3.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_3.pdf) (26/06/2023)
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
 
----
-
-
-### **Exercícios Porpostos**
-
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_1.pdf) (23/11/2023)
-
-[exercicios_propostos_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/exercicios_propostos_2.pdf) (07/12/2023)
-
-### **Estudos Dirigidos**
-
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_1.pdf) (31/08/2023)
-
-[estudo_dirigido_2.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_2.pdf) (03/10/2023)
-
-[estudo_dirigido_3.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/estudo_dirigido_3.pdf) (04/10/2023)
-
----
--->
 <!-- ### ***HW*<sub>2</sub>**
 
-* [ERQ01_HW2_20231219.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/ERQ01_HW2_20231219.pdf) (16/12/2023)
+* [MSPQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW2_20241219.pdf) (xx/xx/2024)
 
-* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de 20/12/2023.
+* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de xx/xx/2024.
 
-* Leia e atenda as [instrucoes.pdf](https://github.com/aumpierre-unb/ERQ0120232/raw/main/instrucoes.pdf) (16/12/2023)
+* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
 
-* Observe a formatação dos *templates*
-
-* Os templates foram atalizados para a data da realização da *HW*<sub>2</sub>
-
-* Um [*template*](https://github.com/aumpierre-unb/ERQ0120232/raw/main/template_ERQ.docx) adicional em formato docx foi dispnibilizado -->
+* Observe a formatação dos *templates*-->
 
 ---
 
-Copyright &copy; 2023 Alexandre Umpierre
+Copyright &copy; 2024 Alexandre Umpierre
 
-[https://aumpierre-unb.github.io/ERQ0120232/](https://aumpierre-unb.github.io/ERQ0120232/)
+[https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
 
-![https://aumpierre-unb.github.io/ERQ0120232/](https://github.com/aumpierre-unb/ERQ0120232/raw/main/fig.png "https://aumpierre-unb.github.io/ERQ0120232/")
+![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/")
