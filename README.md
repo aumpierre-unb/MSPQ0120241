@@ -60,6 +60,8 @@ Conceitos básicos
 
 Modelos matemáticos teóricos, empíricos e icônicos
 
+Exemplos de modelos matemáticos de processos químicos
+
 #### Módulo 2 - Otimização
 
 Conceitos e fundamentos de otimização
