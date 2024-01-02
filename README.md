@@ -6,7 +6,7 @@
 
 Alexandre Umpierre
 
-IQD BT xx/xx
+IQD BT 86/5
 
 <aumpierre@unb.br>
 
@@ -28,7 +28,7 @@ De 18/03/2024 a 15/07/2024
 
 ### **Horário e local de atendimento aos alunos**
 
-46T23, IQD BT xx/xx
+46T23, IQD BT 86/5
 
 O atendimento aos alunos será *exclusivamente presencial*. Nenhuma plataforma digital de comunicação será adotada.
 
