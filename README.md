@@ -24,6 +24,8 @@ De 18/03/2024 a 15/07/2024
 
 46M34, BSA S B1 41/13
 
+xxxx (aulas para simulação de processos)
+
 ---
 
 ### **Horário e local de atendimento aos alunos**
@@ -44,6 +46,8 @@ Apresentar conceitos básicos sobre modelagem e modelos matemáticos usados em e
 
 Aulas expositivas com exemplos e exercícios.
 
+A simulação de processos será realizada no simulador EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc](https://www.enq.ufrgs.br/alsoc)), na sala xxxx.
+
 Eventuais listas de exercícios e estudos dirigido serão divulgados na página da disciplina.
 
 *Não são autorizados registros fotográficos do conteúdo ministrado das aulas.*
@@ -54,7 +58,7 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 O conteúdo será dividido em três módulos:
 
-#### Módulo 1 - Modelagem
+#### **Módulo 1 - Modelagem**
 
 Conceitos básicos
 
@@ -62,7 +66,7 @@ Modelos matemáticos teóricos, empíricos e icônicos
 
 Exemplos de modelos matemáticos de processos químicos
 
-#### Módulo 2 - Otimização
+#### **Módulo 2 - Otimização**
 
 Conceitos e fundamentos de otimização
 
@@ -72,7 +76,7 @@ Métodos estocásticos e determinísticos
 
 Algoritmos de otimização
 
-#### Módulo 3 - Simulação
+#### **Módulo 3 - Simulação**
 
 Simuladores comerciais
 
