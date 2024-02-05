@@ -22,9 +22,9 @@ De 18/03/2024 a 15/07/2024
 
 ### **Horário e local das aulas**
 
-46M34, BSA S B1 41/13
+4M34, BSA S B1 41/13
 
-IQD AT 106/21 (aulas para simulação de processos)
+6M34, IQD AT 106/21
 
 ---
 
@@ -38,17 +38,17 @@ O atendimento aos alunos será *exclusivamente presencial*. Nenhuma plataforma d
 
 ### **Objetivo**
 
-Apresentar conceitos básicos sobre modelagem e modelos matemáticos usados em engenharia química, métodos de otimização, estratégias de simulação e simuladores comerciais mais populares entre os profissionais da área.
+Apresentar conceitos básicos sobre modelagem e simulação de modelos matemáticos usados em engenharia química, métodos de otimização, e simulação de processos em abientes de simulação de processos.
 
 ---
 
 ### **Metodologia**
 
-Aulas expositivas com exemplos e exercícios.
+Aulas expositivas com exemplos e exercícios e simulação de processos químicos.
 
-A simulação de processos será realizada no simulador EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc](https://www.enq.ufrgs.br/alsoc)), na sala xxxx.
+A simulação de processos será realizada com elaboração de códigos e com o simulador EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc/download/](https://www.enq.ufrgs.br/alsoc/download/)).
 
-Eventuais listas de exercícios e estudos dirigido serão divulgados na página da disciplina.
+Listas de exercícios e estudos dirigido serão divulgados na página da disciplina.
 
 *Não são autorizados registros fotográficos do conteúdo ministrado das aulas.*
 
@@ -56,73 +56,94 @@ Eventuais listas de exercícios e estudos dirigido serão divulgados na página 
 
 ### **Programa**
 
-O conteúdo será dividido em três módulos:
+O conteúdo será dividido em dois módulos:
 
-#### **Módulo 1 - Modelagem**
+#### **Módulo 1**
 
-Conceitos básicos
+Conceitos básicos de modelagem e simulação
 
 Modelos matemáticos teóricos, empíricos e icônicos
 
 Exemplos de modelos matemáticos de processos químicos
 
-#### **Módulo 2 - Otimização**
+Classificação dos modelos matemáticos
 
-Conceitos e fundamentos de otimização
+Simulação de processos químicos (usando o EMSO)
+
+#### **Módulo 2**
 
 Busca univariável e multivariável com e sem restrições
 
-Métodos estocásticos e determinísticos
-
 Algoritmos de otimização
 
-#### **Módulo 3 - Simulação**
-
-Simuladores comerciais
+Simulação de processos químicos (usando o EMSO)
 
 ---
 
 ### **Avaliação**
 
-Ao longo do período serão realizadas três testes, *T*<sub>1</sub>, *T*<sub>2</sub> e *T*<sub>3</sub>, versando sobre os respectivos módulos do programa, e dois trabalhos, *HW*<sub>1</sub>, versando sobre o primeiro e o segundo módulos, e *HW*<sub>2</sub>, versando sobre o terceiro módulo.
-
-Os trabalhos serão realizados de forma assíncrona, em horário extraclasse. Os trabalhos podem ser resolvidos individualmente ou em duplas. O prazo para realização dos trabalhos é de 24 horas.
+Ao longo do período serão realizadas duas provas: a primeira prova, *P*<sub>1</sub>, versando sobre modelagem de processos químicos, e a segunda prova, *P*<sub>2</sub>, versando sobre simulação e otimização de processos químicos.
 
 Todas as avaliações serão corrigidas em uma escala de 0 a 10.
 
-A nota final é a soma de 35 % da média aritmética dos trabalhos e de 65 % da média aritmética dos testes.
+A nota final será clculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub>.
 
-O desenvolvimento das respostas é critério fundamental de avaliação, devendo estar direta e objetivamente relacionado à obtenção da resposta final e seguindo uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina. Afirmações não relacionadas ao desenvolvimento serão desconsideradas, independentemente de seus valores.
+As orientações descritas abaixo para realização e entrega das provas devem ser observadas com atenção. A inobservâncias dessas orientações implicará em desconto de nota.
 
-As avaliações realizadas de forma assíncrona devem, obrigatoriamente, ser elaboradas sobre um dos *templates*
 
-[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc) ou
+#### **Datas das Avaliações**
 
-[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx) ou
+* *P*<sub>1</sub> - xx/xx/2024
 
-[https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
+* *P*<sub>2</sub> - xx/xx/2024
 
-e entregues em *formato pdf* por *apenas um dos autores*, intituladas de acordo com o exemplo:
+#### **Detalhes e orientações para a prova *P*<sub>1</sub>**:
 
-*MSPQ_T01_20241_HW1_yyyymmdd_matriculasonumeros.pdf*
+* Realizada individualmente ou em duplas, de forma assíncrona
 
-Não serão aceitos documentos em outros formatos nem links para repositórios em nuvem.
+* Disponibilizada para download nesta página até xxxxx
 
-*A inobservância dessas regras poderá incorrer em descontos nas notas das avaliações.*
+* Prazo de entrega até xxxxxx
 
----
+* Arquivo entregue exclusivamente por email
 
-### **Datas das Avaliações**
+* Arquivio exclusivamente em formato pdf
 
-*T*<sub>1</sub> - xx/xx/2024
+* O arquivo deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
 
-*T*<sub>2</sub> - xx/xx/2024
+  *MSPQ_T01_20241_P1_yyyymmdd_matriculasonumeros.pdf*
 
-*HW*<sub>1</sub> - xx/xx/2024
+* Não serão aceitos links para repositórios em nuvem
 
-*T*<sub>3</sub> - xx/xx/2024
+* Documento redigido sobre um dos *templates*:
 
-*HW*<sub>2</sub> - xx/xx/2024
+  [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc)
+
+  [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.docx)
+
+  [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
+
+#### **Detalhes e orientações para a prova *P*<sub>2</sub>**:
+
+* Realizada individualmente, de forma síncrona
+
+* Prazo de entrega de uma hora
+
+* Questões baseadas no conteúdo desenvolvido em aula
+
+* Arquivos com as respostas entregues em memória *flash*
+
+* Os arquivos devem ser identificado com nome e matrícula do autor e nomeados de acordo com o exemplo:
+
+  *MSPQ_T01_20241_P2_yyyymmdd_matriculasonumeros_Q1*
+
+#### **Critétrios de Avaliação**
+
+Os critérios de correção das avaliações são dois: observância às orientações e adequação das respostas.
+
+* O desenvolvimento das respostas deve estar diretamente e objetivamente relacionado à obtenção das respostas finais e deve seguir uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina.
+
+* Afirmações não relacionadas ao desenvolvimento correto das questões serão desconsideradas, independentemente de seus valores e validade.
 
 ---
 
@@ -130,22 +151,31 @@ Não serão aceitos documentos em outros formatos nem links para repositórios e
 
 #### **Bibliografia Básica**
 
-Rice, R. R.; Do, D. D. *Applied Mathematics and Modeling for Chemical Engineers*, John Wiley & Sons, **1995**.
+* Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, Mc-Graw-Hill, **1990**.
 
-Babatunde A. Ogunnaike & W. Harmon Ray, *Process Dynamics, Modeling, and Control*, Oxford University Press, **1994**.
+* Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon, *Optimization of Chemical Processes*, 2nd Edition, McGraw-Hill, **2001**.
 
-Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon, *Optimization of Chemical Processes*, 2nd Edition, McGraw-Hill, **2001**.
-
-Bequette, B. W. *Process Dynamics. Modeling, Analysis, and Simulation*, Prentice Hall, **1998**.
-
-Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, Mc-Graw-Hill, **1990**.
-
-Paulo Laranjeira e José Carlos Pinto, *Métodos Numéricos em Problemas de Engenharia Química*, E-papers, **2001**.
-
+* Rice, R. R.; Do, D. D. *Applied Mathematics and Modeling for Chemical Engineers*, John Wiley & Sons, **1995**.
 
 #### **Bibliografia Complementar**
 
-xxxxxxx
+* Babatunde A. Ogunnaike & W. Harmon Ray, *Process Dynamics, Modeling, and Control*, Oxford University Press, **1994**.
+
+* Bequette, B. W. *Process Dynamics. Modeling, Analysis, and Simulation*, Prentice Hall, **1998**.
+
+* Paulo Laranjeira e José Carlos Pinto, *Métodos Numéricos em Problemas de Engenharia Química*, E-papers, **2001**.
+
+* Perry's Handbook
+
+* McCabe
+
+* Foust
+
+* Sinnott
+
+* Fogler
+
+* Sandler
 
 ---
 
@@ -165,9 +195,9 @@ xxxxxxx
 
 * Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
 
-* Observe a formatação dos *templates*-->
+* Observe a formatação dos *templates*
 
----
+--- -->
 
 Copyright &copy; 2024 Alexandre Umpierre
 
