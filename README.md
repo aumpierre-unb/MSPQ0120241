@@ -151,31 +151,37 @@ Os critérios de correção das avaliações são dois: observância às orienta
 
 #### **Bibliografia Básica**
 
-* Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, Mc-Graw-Hill, **1990**.
+* Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, McGraw-Hill, **1990**.
 
-* Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon, *Optimization of Chemical Processes*, 2nd Edition, McGraw-Hill, **2001**.
+* Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon *Optimization of Chemical Processes*, 2nd edition, McGraw-Hill, **2001**.
 
 * Rice, R. R.; Do, D. D. *Applied Mathematics and Modeling for Chemical Engineers*, John Wiley & Sons, **1995**.
 
 #### **Bibliografia Complementar**
 
-* Babatunde A. Ogunnaike & W. Harmon Ray, *Process Dynamics, Modeling, and Control*, Oxford University Press, **1994**.
+* D. Green, R. Perry *Perry’s Chemical Engineers’ Handbook*, 8th edition, McGraw-Hill, **2008**.
+
+<!--* Babatunde A. Ogunnaike & W. Harmon Ray *Process Dynamics, Modeling, and Control*, Oxford University Press, **1994**.-->
 
 * Bequette, B. W. *Process Dynamics. Modeling, Analysis, and Simulation*, Prentice Hall, **1998**.
 
 * Paulo Laranjeira e José Carlos Pinto, *Métodos Numéricos em Problemas de Engenharia Química*, E-papers, **2001**.
 
-* Perry's Handbook
+* W. McCabe, J. Smith, P. Harriott *Unit Operations of Chemical Engineering*, 7th edition, McGraw-Hill, **2005**.
 
-* McCabe
+<!--* Foust, A. S., C. W. Clump, L. A. Wenzell, L. Maus, L. B. Andersen *Principles of Unit Operations*, LTC, **1982**.
 
-* Foust
+* Brown, G. G. et al *Operaciones Básicas de la Ingeniería Química*, Manuel Marín & Cia, **1955**.-->
 
-* Sinnott
+* Kern, Donald Quentin *Process Heat Transfer*, McGraw-Hill, **1950**.
 
-* Fogler
+* R. Sinnott y G. Towler *Diseño en Ingeniería Química*, 5th edition, Reverté, **2012**.
 
-* Sandler
+* Fogler, S. H. *Essentials of Chemical Reaction Engineering*, Prentice Hall, **2011**.
+
+* Levenspiel, O. *Chemical Reaction Engineering*, John Wiley & Sons, **1998**.
+
+* Sandler, S. I. *Chemical, Biochemical and Engineering Thermodynamics*, 4th edition, Wiley, **2006**.
 
 ---
 
