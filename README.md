@@ -127,6 +127,8 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
 * Realizada individualmente, de forma síncrona
 
+* Realizada com consulta ao acervo de rotinas e modelos de simulação
+
 * Prazo de entrega de uma hora
 
 * Questões baseadas no conteúdo desenvolvido em aula
