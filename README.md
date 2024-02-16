@@ -1,6 +1,10 @@
-# Modelagem e Simulação de Processos Químicos - IQD0016 - Turma T01 - 2024/1
+# Universidade de Brasília - Instituto de Química
 
-## Universidade de Brasília - Instituto de Química
+### Modelagem e Simulação de Processos Químicos - IQD0016
+
+### 2024/1 - Turma T01
+
+## Plano de Ensino
 
 ### **Professor**
 
@@ -60,23 +64,23 @@ O conteúdo será dividido em dois módulos:
 
 #### **Módulo 1**
 
-Conceitos básicos de modelagem e simulação
+* Conceitos básicos de modelagem e simulação
 
-Modelos matemáticos teóricos, empíricos e icônicos
+* Modelos matemáticos teóricos, empíricos e icônicos
 
-Exemplos de modelos matemáticos de processos químicos
+* Exemplos de modelos matemáticos de processos químicos
 
-Classificação dos modelos matemáticos
+* Classificação dos modelos matemáticos
 
-Simulação de processos químicos (usando o EMSO)
+* Simulação de processos químicos (usando o EMSO)
 
 #### **Módulo 2**
 
-Busca univariável e multivariável com e sem restrições
+* Busca univariável e multivariável com e sem restrições
 
-Algoritmos de otimização
+* Algoritmos de otimização
 
-Simulação de processos químicos (usando o EMSO)
+* Simulação de processos químicos (usando o EMSO)
 
 ---
 
@@ -91,11 +95,19 @@ A nota final será clculada como a média aritmética das provas *P*<sub>1</sub>
 As orientações descritas abaixo para realização e entrega das provas devem ser observadas com atenção. A inobservâncias dessas orientações implicará em desconto de nota.
 
 
-#### **Datas das Avaliações**
+#### **Datas das avaliações**
 
 * *P*<sub>1</sub> - xx/xx/2024
 
 * *P*<sub>2</sub> - xx/xx/2024
+
+#### **Critétrios de avaliação**
+
+Os critérios de correção das avaliações são observância às orientações e adequação das respostas.
+
+O desenvolvimento das respostas deve estar diretamente e objetivamente relacionado à obtenção das respostas finais e deve seguir uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina.
+
+Afirmações não relacionadas ao desenvolvimento correto das questões serão desconsideradas, independentemente de seus valores e validade.
 
 #### **Detalhes e orientações para a prova *P*<sub>1</sub>**:
 
@@ -105,9 +117,7 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
 * Prazo de entrega até xxxxxx
 
-* Arquivo entregue exclusivamente por email
-
-* Arquivio exclusivamente em formato pdf
+* Arquivo entregue exclusivamente por email em formato pdf
 
 * O arquivo deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
 
@@ -115,7 +125,9 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
 * Não serão aceitos links para repositórios em nuvem
 
-* Documento redigido sobre um dos *templates*:
+* Documento redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
+
+* Documento redigido sobre um dos *templates* disponíveis para download:
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc)
 
@@ -123,11 +135,15 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
 
+* A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
+
 #### **Detalhes e orientações para a prova *P*<sub>2</sub>**:
 
 * Realizada individualmente, de forma síncrona
 
 * Realizada com consulta ao acervo de rotinas e modelos de simulação
+
+* Realizada sem consulta *online*
 
 * Prazo de entrega de uma hora
 
@@ -139,19 +155,11 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
   *MSPQ_T01_20241_P2_yyyymmdd_matriculasonumeros_Q1*
 
-#### **Critétrios de Avaliação**
-
-Os critérios de correção das avaliações são dois: observância às orientações e adequação das respostas.
-
-* O desenvolvimento das respostas deve estar diretamente e objetivamente relacionado à obtenção das respostas finais e deve seguir uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina.
-
-* Afirmações não relacionadas ao desenvolvimento correto das questões serão desconsideradas, independentemente de seus valores e validade.
-
 ---
 
 ### **Bibliografia**
 
-#### **Bibliografia Básica**
+#### **Bibliografia básica**
 
 * Luyben, W. L. *Process Modeling, Simulation and Control for Chemical Engineers*, McGraw-Hill, **1990**.
 
@@ -159,7 +167,7 @@ Os critérios de correção das avaliações são dois: observância às orienta
 
 * Rice, R. R.; Do, D. D. *Applied Mathematics and Modeling for Chemical Engineers*, John Wiley & Sons, **1995**.
 
-#### **Bibliografia Complementar**
+#### **Bibliografia complementar**
 
 * D. Green, R. Perry *Perry’s Chemical Engineers’ Handbook*, 8th edition, McGraw-Hill, **2008**.
 
@@ -212,3 +220,51 @@ Copyright &copy; 2024 Alexandre Umpierre
 [https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
 
 ![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/")
+
+---
+
+## Instruções para Elaboração de Avaliações Extraclasse
+
+### Critérios de avaliação
+
+Além da consistência e da correção no desenvolvimento das questões, a avaliação ainda considera os seguintes quesitos:
+
+*	Fidelidade ao *template*
+
+*	Originalidade
+
+*	Pontualidade
+
+*	Observação à norma culta da língua portuguesa
+
+* Objetividade e consistência dos argumentos
+
+* Clareza e adequação de figuras, esquemas, tabelas e equações químicas e matemáticas
+
+### Orientações gerais
+
+*	Escreva seu texto sobre o template sem nenhuma edição de fontes e parágrafos e margens.
+
+*	Todas as variáveis utilizadas devem ser descritas adequadamente no texto e todas (incluindo as letras gregas) as variáveis devem ser apresentadas em itálico.
+
+*	Não utilize nenhuma forma de destaque (como negrito, itálico, sublinhado, realce etc) para o corpo de texto (exceto para representação de variáveis, que devem ser escritas em itálico).
+
+*	O documento deve ser integralmente em preto.
+
+*	Não utilize planos de fundo.
+
+*	Figuras, esquemas e tabelas devem ser todos referenciados no texto antes de sua apresentação.
+
+* A adequação à normas diferentes das aqui dispostas significam inadequação a estas normas.
+
+### Orientações para apresentação de gráficos e tabelas
+
+*	A clareza dos dados apresentados nas figuras e tabelas é de responsabilidade do autor.
+
+*	Gráficos devem ser apresentados como figuras.
+
+*	Os eixos dos gráficos devem ser corretamente nomeados, as escalas devem ser adequadas para cada caso, e as legendas devem ser apresentadas no caption da figura ou na área do gráfico.
+
+*	Todas as figuras e tabelas devem ser numeradas e referenciadas no texto.
+
+*	Traços e símbolos em figuras podem ser utilizados diferentes cores/padrões, desde que suficientemente diferentes entre si e claramente identificados em seus respectivos *captions*.
