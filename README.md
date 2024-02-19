@@ -50,9 +50,13 @@ Apresentar conceitos básicos sobre modelagem e simulação de modelos matemáti
 
 Aulas expositivas com exemplos e exercícios e simulação de processos químicos.
 
-A simulação de processos será realizada com elaboração de códigos e com o simulador EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc/download/](https://www.enq.ufrgs.br/alsoc/download/)).
+A simulação de processos será realizada usando simuladores e recursos de programação.
 
-Listas de exercícios e estudos dirigido serão divulgados na página da disciplina.
+Para uso durante as aulas, será adotado o ambiente de simulação EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc/download/](https://www.enq.ufrgs.br/alsoc/download/)).
+
+Os estudantes são instados a construir seus acervos de códigos para simulação durante o decorrer do semestre, a fim de servirem-se deles para realizarem as avaliações.
+
+Listas de exercícios e estudos dirigido, quando houver, serão divulgados na página da disciplina.
 
 *Não são autorizados registros fotográficos do conteúdo ministrado das aulas.*
 
@@ -86,14 +90,13 @@ O conteúdo será dividido em dois módulos:
 
 ### **Avaliação**
 
-Ao longo do período serão realizadas duas provas: a primeira prova, *P*<sub>1</sub>, versando sobre modelagem de processos químicos, e a segunda prova, *P*<sub>2</sub>, versando sobre simulação e otimização de processos químicos.
+Ao longo do período serão realizadas duas provas, *P*<sub>1</sub> e *P*<sub>2</sub>. A prova *P*<sub>1</sub> versará sobre modelagem de processos químicos, e a prova *P*<sub>2</sub> versará sobre simulação e otimização de processos químicos.
 
-Todas as avaliações serão corrigidas em uma escala de 0 a 10.
+As avaliações serão corrigidas em uma escala de 0 a 10.
 
 A nota final será clculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub>.
 
-As orientações descritas abaixo para realização e entrega das provas devem ser observadas com atenção. A inobservâncias dessas orientações implicará em desconto de nota.
-
+As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção. A inobservâncias dessas orientações implicará em desconto de nota.
 
 #### **Datas das avaliações**
 
@@ -103,13 +106,13 @@ As orientações descritas abaixo para realização e entrega das provas devem s
 
 #### **Critétrios de avaliação**
 
-Os critérios de correção das avaliações são observância às orientações e adequação das respostas.
+Os critérios de correção das avaliações são observância às orientações e adequação das respostas. Os trabalhos extraclasse devem, ainda, atender às *instruções para redação de trabalhos extraclasse*.
 
 O desenvolvimento das respostas deve estar diretamente e objetivamente relacionado à obtenção das respostas finais e deve seguir uma sequência lógica e consistente com os modelos aceitos pela literatura da área da disciplina.
 
 Afirmações não relacionadas ao desenvolvimento correto das questões serão desconsideradas, independentemente de seus valores e validade.
 
-#### **Detalhes e orientações para a prova *P*<sub>1</sub>**:
+#### **Orientações para a prova *P*<sub>1</sub>**:
 
 * Realizada individualmente ou em duplas, de forma assíncrona
 
@@ -137,7 +140,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
 
-#### **Detalhes e orientações para a prova *P*<sub>2</sub>**:
+#### **Orientações para a prova *P*<sub>2</sub>**:
 
 * Realizada individualmente, de forma síncrona
 
@@ -223,27 +226,27 @@ Copyright &copy; 2024 Alexandre Umpierre
 
 ---
 
-## Instruções para Elaboração de Avaliações Extraclasse
+## Instruções para Redação de Trabalhos Extraclasse
 
 ### Critérios de avaliação
 
-Além da consistência e da correção no desenvolvimento das questões, a avaliação ainda considera os seguintes quesitos:
+Além *observância às orientações e adequação das respostas*, como descrito neste documento, a avaliação de trabalhos extraclasse ainda considera os seguintes quesitos:
 
 *	Fidelidade ao *template*
 
-*	Originalidade
+*	Originalidade da redação
 
-*	Pontualidade
+*	Pontualidade de entrega
 
 *	Observação à norma culta da língua portuguesa
 
-* Objetividade e consistência dos argumentos
+* Observação às normas da IUPAC para expressão de equações químicas
 
-* Clareza e adequação de figuras, esquemas, tabelas e equações químicas e matemáticas
+* Clareza e adequação de figuras, esquemas, tabelas, equações matemáticas
 
 ### Orientações gerais
 
-*	Escreva seu texto sobre o template sem nenhuma edição de fontes e parágrafos e margens.
+*	Escreva seu texto sobre o template sem nenhuma edição de fontes, parágrafos, margens, layout, tabuções, cores, etc.
 
 *	Todas as variáveis utilizadas devem ser descritas adequadamente no texto e todas (incluindo as letras gregas) as variáveis devem ser apresentadas em itálico.
 
