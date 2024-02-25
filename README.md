@@ -36,7 +36,9 @@ De 18/03/2024 a 15/07/2024
 
 46T23, IQD BT 86/5
 
-O atendimento aos alunos será *exclusivamente presencial*. Nenhuma plataforma digital de comunicação será adotada.
+Questionamentos quanto à matéria devem ser apresentados *presencialmente*.
+
+Contato por email deve ser restrito à questões formais.
 
 ---
 
@@ -52,9 +54,9 @@ Aulas expositivas com exemplos e exercícios e simulação de processos químico
 
 A simulação de processos será realizada usando simuladores e recursos de programação.
 
-Para uso durante as aulas, será adotado o ambiente de simulação EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc/download/](https://www.enq.ufrgs.br/alsoc/download/)).
+Para os exemplos de simulação em sala de aula, será adotado o ambiente de simulação EMSO (disponível para download em [https://www.enq.ufrgs.br/alsoc/download/](https://www.enq.ufrgs.br/alsoc/download/)).
 
-Os estudantes são instados a construir seus acervos de códigos para simulação durante o decorrer do semestre, a fim de servirem-se deles para realizarem as avaliações.
+Os estudantes são instados a construir seus acervos de códigos e modelos para simulação durante o decorrer de todo o semestre, a fim de servirem-se deles para realizarem as avaliações.
 
 Listas de exercícios e estudos dirigido, quando houver, serão divulgados na página da disciplina.
 
@@ -94,9 +96,11 @@ Ao longo do período serão realizadas duas provas, *P*<sub>1</sub> e *P*<sub>2<
 
 As avaliações serão corrigidas em uma escala de 0 a 10.
 
-A nota final será clculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub>.
+A nota final será calculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub>.
 
-As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção. A inobservâncias dessas orientações implicará em desconto de nota.
+As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção.
+
+A inobservâncias dessas orientações implicará em desconto de nota.
 
 #### **Datas das avaliações**
 
@@ -196,39 +200,11 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Sandler, S. I. *Chemical, Biochemical and Engineering Thermodynamics*, 4th edition, Wiley, **2006**.
 
----
+<div style="page-break-after: always"></div>
 
-<!--### **Exercícios Propostos**
+## Instruções para Redação dos Trabalhos Extraclasse
 
-[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
-
-<!--### **Estudos Dirigidos**
-
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
-
-<!-- ### ***HW*<sub>2</sub>**
-
-* [MSPQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW2_20241219.pdf) (xx/xx/2024)
-
-* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de xx/xx/2024.
-
-* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
-
-* Observe a formatação dos *templates*
-
---- -->
-
-Copyright &copy; 2024 Alexandre Umpierre
-
-[https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
-
-![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/")
-
----
-
-## Instruções para Redação de Trabalhos Extraclasse
-
-### Critérios de avaliação
+### Critérios adicionais de avaliação
 
 Além *observância às orientações e adequação das respostas*, como descrito neste documento, a avaliação de trabalhos extraclasse ainda considera os seguintes quesitos:
 
@@ -271,3 +247,35 @@ Além *observância às orientações e adequação das respostas*, como descrit
 *	Todas as figuras e tabelas devem ser numeradas e referenciadas no texto.
 
 *	Traços e símbolos em figuras podem ser utilizados diferentes cores/padrões, desde que suficientemente diferentes entre si e claramente identificados em seus respectivos *captions*.
+
+<div style="page-break-after: always"></div>
+
+---
+
+<!--### **Exercícios Propostos**
+
+[exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
+
+<!--### **Estudos Dirigidos**
+
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
+
+<!-- ### ***HW*<sub>2</sub>**
+
+* [MSPQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW2_20241219.pdf) (xx/xx/2024)
+
+* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de xx/xx/2024.
+
+* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
+
+* Observe a formatação dos *templates*
+
+--- -->
+
+Copyright &copy; 2024 Alexandre Umpierre
+
+[https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
+
+![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/fig.png")
+
+---
