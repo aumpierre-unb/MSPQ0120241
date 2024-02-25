@@ -38,7 +38,7 @@ De 18/03/2024 a 15/07/2024
 
 Questionamentos quanto à matéria devem ser apresentados *presencialmente*.
 
-Contato por email deve ser restrito à questões formais.
+O contato por email deve ser restrito à questões formais.
 
 ---
 
@@ -252,11 +252,11 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 ---
 
-<!--### **Exercícios Propostos**
+<!--### **Exercícios propostos**
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
 
-<!--### **Estudos Dirigidos**
+<!--### **Estudos dirigidos**
 
 [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
 
