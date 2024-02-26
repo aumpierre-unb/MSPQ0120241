@@ -36,7 +36,7 @@ De 18/03/2024 a 15/07/2024
 
 46T23, IQD BT 86/5
 
-Questionamentos quanto à matéria devem ser apresentados *presencialmente*.
+Questionamentos quanto à matéria devem ser apresentados *presencialmente*, durante as aulas ou nos horários de atendimento.
 
 O contato por email deve ser restrito à questões formais.
 
@@ -92,11 +92,11 @@ O conteúdo será dividido em dois módulos:
 
 ### **Avaliação**
 
-Ao longo do período serão realizadas duas provas, *P*<sub>1</sub> e *P*<sub>2</sub>. A prova *P*<sub>1</sub> versará sobre modelagem de processos químicos, e a prova *P*<sub>2</sub> versará sobre simulação e otimização de processos químicos.
+Ao longo do período serão realizados dois trabalhos, *HW*<sub>1</sub> e *HW*<sub>2</sub>. O trabalho *HW*<sub>1</sub> versará sobre modelagem de processos químicos, e o trabalho *HW*<sub>2</sub> versará sobre simulação e otimização de processos químicos.
 
 As avaliações serão corrigidas em uma escala de 0 a 10.
 
-A nota final será calculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub>.
+A nota final será calculada como a média aritmética das provas *HW*<sub>1</sub> e *HW*<sub>2</sub>.
 
 As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção.
 
@@ -104,9 +104,9 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 #### **Datas das avaliações**
 
-* *P*<sub>1</sub> - xx/xx/2024
+* *HW*<sub>1</sub> - xx/xx/2024
 
-* *P*<sub>2</sub> - xx/xx/2024
+* *HW*<sub>2</sub> - xx/xx/2024
 
 #### **Critétrios de avaliação**
 
@@ -116,11 +116,11 @@ O desenvolvimento das respostas deve estar diretamente e objetivamente relaciona
 
 Afirmações não relacionadas ao desenvolvimento correto das questões serão desconsideradas, independentemente de seus valores e validade.
 
-#### **Orientações para a prova *P*<sub>1</sub>**:
+#### **Orientações para o trabalho *HW*<sub>1</sub>**:
 
-* Realizada individualmente ou em duplas, de forma assíncrona
+* Realizado individualmente ou em duplas, de forma assíncrona
 
-* Disponibilizada para download nesta página até xxxxx
+* Disponibilizado para download nesta página até xxxxx
 
 * Prazo de entrega até xxxxxx
 
@@ -142,19 +142,17 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
 
-* A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
+#### **Orientações para o trabalho *HW*<sub>2</sub>**:
 
-#### **Orientações para a prova *P*<sub>2</sub>**:
+* Realizado individualmente, de forma síncrona
 
-* Realizada individualmente, de forma síncrona
+* Realizado com consulta ao acervo de rotinas e modelos de simulação
 
-* Realizada com consulta ao acervo de rotinas e modelos de simulação
-
-* Realizada sem consulta *online*
+* Realizado sem consulta *online*
 
 * Prazo de entrega de uma hora
 
-* Questões baseadas no conteúdo desenvolvido em aula
+* As questões serão baseadas no conteúdo desenvolvido em aula
 
 * Arquivos com as respostas entregues em memória *flash*
 
@@ -235,6 +233,8 @@ Além *observância às orientações e adequação das respostas*, como descrit
 *	Figuras, esquemas e tabelas devem ser todos referenciados no texto antes de sua apresentação.
 
 * A adequação à normas diferentes das aqui dispostas significam inadequação a estas normas.
+
+* A transcrição dos códigos usados não será considerada parte da resposta em nenhuma hipótese. 
 
 ### Orientações para apresentação de gráficos e tabelas
 
