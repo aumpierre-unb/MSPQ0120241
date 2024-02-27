@@ -1,10 +1,8 @@
-# Universidade de Brasília - Instituto de Química
+# Modelagem e Simulação de Processos Químicos - IQD0016 - Turma T01
 
-### Modelagem e Simulação de Processos Químicos - IQD0016
+### Universidade de Brasília - Instituto de Química
 
-### 2024/1 - Turma T01
-
-## Plano de Ensino
+## **Plano de Ensino**
 
 ### **Professor**
 
@@ -14,23 +12,17 @@ IQD BT 86/5
 
 <aumpierre@unb.br>
 
----
-
 ### **Período letivo**
 
 2024/1
 
 De 18/03/2024 a 15/07/2024
 
----
-
 ### **Horário e local das aulas**
 
 4M34, BSA S B1 41/13
 
 6M34, IQD AT 106/21
-
----
 
 ### **Horário e local de atendimento aos alunos**
 
@@ -40,13 +32,9 @@ Questionamentos quanto à matéria devem ser apresentados *presencialmente*, dur
 
 O contato por email deve ser restrito à questões formais.
 
----
-
 ### **Objetivo**
 
 Apresentar conceitos básicos sobre modelagem e simulação de modelos matemáticos usados em engenharia química, métodos de otimização, e simulação de processos em abientes de simulação de processos.
-
----
 
 ### **Metodologia**
 
@@ -61,8 +49,6 @@ Os estudantes são instados a construir seus acervos de códigos e modelos para 
 Listas de exercícios e estudos dirigido, quando houver, serão divulgados na página da disciplina.
 
 *Não são autorizados registros fotográficos do conteúdo ministrado das aulas.*
-
----
 
 ### **Programa**
 
@@ -87,8 +73,6 @@ O conteúdo será dividido em dois módulos:
 * Algoritmos de otimização
 
 * Simulação de processos químicos (usando o EMSO)
-
----
 
 ### **Avaliação**
 
@@ -159,8 +143,6 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 * Os arquivos devem ser identificado com nome e matrícula do autor e nomeados de acordo com o exemplo:
 
   *MSPQ_T01_20241_P2_yyyymmdd_matriculasonumeros_Q1*
-
----
 
 ### **Bibliografia**
 
@@ -250,8 +232,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 <div style="page-break-after: always"></div>
 
----
-
 <!--### **Exercícios propostos**
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
@@ -268,14 +248,10 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
 
-* Observe a formatação dos *templates*
-
---- -->
+* Observe a formatação dos *templates* -->
 
 Copyright &copy; 2024 Alexandre Umpierre
 
 [https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
 
 ![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/fig.png")
-
----
