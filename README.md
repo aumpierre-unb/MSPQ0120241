@@ -76,11 +76,11 @@ O conteúdo será dividido em dois módulos:
 
 ### **Avaliação**
 
-Ao longo do período serão realizados dois trabalhos, *HW*<sub>1</sub> e *HW*<sub>2</sub>. O trabalho *HW*<sub>1</sub> versará sobre modelagem de processos químicos, e o trabalho *HW*<sub>2</sub> versará sobre simulação e otimização de processos químicos.
+Ao longo do período serão realizados um trabalho *HW*<sub>1</sub> e duas provas, *P*<sub>1</sub> e *P*<sub>2</sub>. A prova *P*<sub>1</sub> versará sobre modelagem e a prova *P*<sub>2</sub> versará sobre simulação. O trabalho *HW*<sub>1</sub> versará sobre modelagem e simulação de processos químicos, e o trabalho *HW*<sub>2</sub> versará sobre simulação e otimização de processos químicos.
 
 As avaliações serão corrigidas em uma escala de 0 a 10.
 
-A nota final será calculada como a média aritmética das provas *HW*<sub>1</sub> e *HW*<sub>2</sub>.
+A nota final será calculada como a média aritmética das provas *P*<sub>1</sub> e *P*<sub>2</sub> e do trabalho *HW*<sub>1</sub>.
 
 As orientações descritas abaixo para resolução, redação e entrega das provas devem ser observadas com atenção.
 
@@ -88,9 +88,11 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 #### **Datas das avaliações**
 
-* *HW*<sub>1</sub> - xx/xx/2024
+* *P*<sub>1</sub> - xx/xx/2024
 
-* *HW*<sub>2</sub> - xx/xx/2024
+* *P*<sub>2</sub> - xx/xx/2024
+
+* *HW*<sub>1</sub> - xx-xx/xx/2024
 
 #### **Critétrios de avaliação**
 
@@ -102,23 +104,21 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 #### **Orientações para o trabalho *HW*<sub>1</sub>**:
 
-* Realizado individualmente ou em duplas, de forma assíncrona
+* Realizados individualmente ou em duplas, de forma assíncrona
 
-* Disponibilizado para download nesta página até xxxxx
+* O trabalho *HW*<sub>1</sub> será disponibilizado para download nesta página
 
-* Prazo de entrega até xxxxxx
+* O arquivo de resolução deve ser entregue exclusivamente por email em formato pdf
 
-* Arquivo entregue exclusivamente por email em formato pdf
+* O arquivo de resolução deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
 
-* O arquivo deve ser identificado com nomes e matrículas dos autores e nomeado de acordo com o exemplo:
-
-  *MSPQ_T01_20241_P1_yyyymmdd_matriculasonumeros.pdf*
+  *MSPQ_T01_20241_HW1_yyyymmdd_matriculasonumeros.pdf*
 
 * Não serão aceitos links para repositórios em nuvem
 
-* Documento redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
+* O arquivo de resolução deve ser redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
 
-* Documento redigido sobre um dos *templates* disponíveis para download:
+* O arquivo de resolução deve ser redigido sobre um dos *templates* disponíveis para download:
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc)
 
@@ -126,17 +126,25 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
 
-#### **Orientações para o trabalho *HW*<sub>2</sub>**:
+#### **Orientações para a provas *P*<sub>1</sub>:
 
-* Realizado individualmente, de forma síncrona
+* Realizada individualmente, de forma síncrona
 
-* Realizado com consulta ao acervo de rotinas e modelos de simulação
-
-* Realizado sem consulta *online*
+* Realizado sem qualquer forma de consulta
 
 * Prazo de entrega de uma hora
 
-* As questões serão baseadas no conteúdo desenvolvido em aula
+* As questões serão de escolha simples ou múltipla ou discursivas
+
+#### **Orientações para a provas *P*<sub>2</sub>:
+
+* Realizada individualmente, de forma síncrona
+
+* Realizada com suporte dos computadores da sala de aula, exclusivamente
+
+* Realizada com consulta ao acervo pessoal de rotinas e modelos de simulação, exclusivamente
+
+* Prazo de entrega de uma hora
 
 * Arquivos com as respostas entregues em memória *flash*
 
