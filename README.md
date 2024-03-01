@@ -106,6 +106,8 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Realizados individualmente ou em duplas, de forma assíncrona
 
+* O tabalho *HW*<sub>1</sub> pode ser realizado com auxílio de quaisquer simuladores e rotinas de programação
+
 * O trabalho *HW*<sub>1</sub> será disponibilizado para download nesta página
 
 * O arquivo de resolução deve ser entregue exclusivamente por email em formato pdf
@@ -126,7 +128,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.odt)
 
-#### **Orientações para a provas *P*<sub>1</sub>:
+#### **Orientações para a prova *P*<sub>1</sub>:
 
 * Realizada individualmente, de forma síncrona
 
@@ -136,9 +138,11 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * As questões serão de escolha simples ou múltipla ou discursivas
 
-#### **Orientações para a provas *P*<sub>2</sub>:
+#### **Orientações para a prova *P*<sub>2</sub>:
 
 * Realizada individualmente, de forma síncrona
+
+* A prova *P*<sub>1</sub> deve ser realizada sobre o ambiente de simulação EMSO
 
 * Realizada com suporte dos computadores da sala de aula, exclusivamente
 
