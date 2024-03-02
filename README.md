@@ -92,7 +92,7 @@ A inobservâncias dessas orientações implicará em desconto de nota.
 
 * *P*<sub>2</sub> - xx/xx/2024
 
-* *HW*<sub>1</sub> - xx-xx/xx/2024
+* *HW*<sub>1</sub> - Disponibilizado até xx/xx/2024 e entregue até xx/xx/2024
 
 #### **Critétrios de avaliação**
 
@@ -106,9 +106,9 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Realizados individualmente ou em duplas, de forma assíncrona
 
-* O tabalho *HW*<sub>1</sub> pode ser realizado com auxílio de quaisquer simuladores e rotinas de programação
+* Pode ser realizado com auxílio de quaisquer simuladores e rotinas de programação
 
-* O trabalho *HW*<sub>1</sub> será disponibilizado para download nesta página
+* Disponibilizado para download nesta página
 
 * O arquivo de resolução deve ser entregue exclusivamente por email em formato pdf
 
@@ -120,7 +120,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * O arquivo de resolução deve ser redigido de acordo com as *instruções para elaboração de avaliações extraclasse*, descritas neste documento
 
-* O arquivo de resolução deve ser redigido sobre um dos *templates* disponíveis para download:
+* O arquivo de resolução deve ser redigido sobre um dos *templates* (disponíveis para download):
 
   [https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/template_MSPQ.doc)
 
@@ -142,7 +142,7 @@ Afirmações não relacionadas ao desenvolvimento correto das questões serão d
 
 * Realizada individualmente, de forma síncrona
 
-* A prova *P*<sub>1</sub> deve ser realizada sobre o ambiente de simulação EMSO
+* Deve ser realizada sobre o ambiente de simulação EMSO
 
 * Realizada com suporte dos computadores da sala de aula, exclusivamente
 
