@@ -26,7 +26,7 @@
 | 21 | 31/05 | PFR |
 | 22 | 05/06 | Coluna de destilação |
 | 23 | 07/06 | Coluna de destilação |
-| 24 | 12/06 |  |
+| 24 | 12/06 | Controle tanque de nível/abertura de válvula |
 | 25 | 14/06 |  |
 | 26 | 19/06** |  |
 | 27 | 21/06 |  |
