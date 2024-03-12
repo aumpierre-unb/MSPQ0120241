@@ -90,13 +90,13 @@ A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios
 
 #### **Datas das avaliações**
 
-* *P*<sub>1</sub> - xx/xx/2024
+* *P*<sub>1</sub> - 08/05/2024
 
-* *P*<sub>2</sub> - xx/xx/2024
+* *P*<sub>2</sub> - 28/06/2024
 
-* *HW*<sub>1</sub> - Disponibilizado até xx/xx/2024 e entregue até xx/xx/2024
+* *HW*<sub>1</sub> - Disponibilizado na página da disciplina até às 23h59 de 30/04, entregue até às 23h59 de 03/07
 
-* Prova substitutiva - xx/xx/2024
+* Prova substitutiva - 12/07/2024
 
 #### **Critétrios de avaliação**
 

@@ -22,7 +22,7 @@
 | 17 | 17/05 |  |
 | 18 | 22/05 | PFR (modelagem) |
 | 19 | 24/05 | PFR (simulação) |
-| 20 | 29/05 | Divulgação do trabalho *HW*<sub>1</sub> <br> PFR (modelagem) |
+| 20 | 29/05 | Disponibilização do trabalho *HW*<sub>1</sub> (até às 23h59 de 30/04, prazo de entrega até às 23h59 de 03/07) <br> PFR (modelagem) |
 | 21 | 31/05 | PFR (simulação) |
 | 22 | 05/06 | Coluna de destilação (modelagem) |
 | 23 | 07/06 | Coluna de destilação (simulação) |
@@ -32,7 +32,7 @@
 | 27 | 21/06 |  |
 | 28 | 26/06 | Aula de dúvidas |
 | 29 | 28/06 | Prova *P*<sub>2</sub> |
-| 30 | 03/07 | Entrega do trabalho *HW*<sub>1</sub> |
+| 30 | 03/07 | Entrega do trabalho *HW*<sub>1</sub> (até às 23h59 de 03/07) |
 | 31 | 05/07 | Correção da prova *P*<sub>2</sub> |
 | 32 | 10/07 | Revisão de notas |
 | 33 | 12/07 | Prova substitutiva |
