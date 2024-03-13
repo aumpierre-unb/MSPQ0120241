@@ -41,4 +41,4 @@
 
 \** 15/06 - 75 % do semestre
 
-\** 15/07 - Término do semestre
+\*** 15/07 - Término do semestre
