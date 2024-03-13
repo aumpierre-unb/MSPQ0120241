@@ -5,7 +5,7 @@
 | 1 | 20/03 | Plano de Ensino <br> Tanques de nível (modelagem) |
 | 2 | 22/03 | Tanques de nível (modelagem) |
 | 3 | 27/03 | Tanques de nível (simulação) |
-| | 29/03 | Feriado |
+| | 29/03 | Feriado (Sexta-feira Santa) |
 | 4 | 03/04 | Destilação *flash* (modelagem) |
 | 5 | 05/04 | Destilação *flash* (simulação) |
 | 6 | 10/04 | Misturadores (modelagem) |
@@ -41,4 +41,4 @@
 
 \** 15/06 - 75 % do semestre
 
-\** 15/07 - término do semestre
+\** 15/07 - Término do semestre
