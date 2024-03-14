@@ -20,7 +20,7 @@ De 18/03/2024 a 15/07/2024
 
 ### **Horário e local das aulas**
 
-4M34, BSA S B1 41/13
+4M34, BSAS B2 16/9
 
 6M34, IQD AT 106/21
 
