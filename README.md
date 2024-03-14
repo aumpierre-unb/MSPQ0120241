@@ -96,7 +96,7 @@ A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios
 
 * *HW*<sub>1</sub> - Disponibilizado na página da disciplina até às 23h59 de 30/04, entregue até às 23h59 de 03/07
 
-* Prova substitutiva - 12/07/2024
+* Avaliação substitutiva - 12/07/2024
 
 #### **Critétrios de avaliação**
 
