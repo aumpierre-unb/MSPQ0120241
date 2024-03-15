@@ -35,7 +35,7 @@
 | 30 | 03/07 | Entrega do trabalho *HW*<sub>1</sub> (até às 23h59 de 03/07) |
 | 31 | 05/07 | Correção da prova *P*<sub>2</sub> |
 | 32 | 10/07 | Revisão de notas |
-| 33 | 12/07 | Prova substitutiva |
+| 33 | 12/07 | Avaliação substitutiva |
 
 \* 16/04 - 25 % do semestre
 
