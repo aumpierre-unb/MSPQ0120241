@@ -246,8 +246,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 *	Traços e símbolos em figuras podem ser utilizados diferentes cores/padrões, desde que suficientemente diferentes entre si e claramente identificados em seus respectivos *captions*.
 
-<div style="page-break-after: always"></div>
-
 <!--### **Exercícios propostos**
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
@@ -270,4 +268,6 @@ Copyright &copy; 2024 Alexandre Umpierre
 
 [https://aumpierre-unb.github.io/MSPQ0120241/](https://aumpierre-unb.github.io/MSPQ0120241/)
 
-![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/")
+<!-- ![https://aumpierre-unb.github.io/MSPQ0120241/](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/fig.png "https://aumpierre-unb.github.io/MSPQ0120241/") -->
+
+![https://aumpierre-unb.github.io/MSPQ0120241/](qrcode.png "https://aumpierre-unb.github.io/MSPQ0120241/")
