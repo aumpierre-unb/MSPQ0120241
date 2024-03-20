@@ -218,7 +218,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 ### Orientações gerais
 
-*	Escreva seu texto sobre o template sem nenhuma edição de fontes, parágrafos, margens, layout, tabuções, cores, etc.
+*	Escreva seu texto sobre o template sem nenhuma edição de fontes, parágrafos, margens, layout, tabulações, cores, etc.
 
 *	Todas as variáveis utilizadas devem ser descritas adequadamente no texto e todas (incluindo as letras gregas) as variáveis devem ser apresentadas em itálico.
 
