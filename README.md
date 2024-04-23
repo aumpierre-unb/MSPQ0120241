@@ -260,7 +260,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * O trabalho *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de 03/07/2024.
 
-* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (23/04/2024)
+* Leia e atenda as *Instruções para Redação dos Trabalhos Extraclasse* dispostas no plano de ensino.
 
 * Observe a formatação dos *templates*
 
