@@ -254,15 +254,17 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 [estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
 
-<!-- ### ***HW*<sub>2</sub>**
+### ***HW*<sub>1</sub>**
 
-* [MSPQ01_HW2_20241219.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW2_20241219.pdf) (xx/xx/2024)
+* [MSPQ01_HW1_20240423.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW1_20240423.pdf) (23/04/2024)
 
-* A prova *HW*<sub>2</sub> deve ser entregue impreterivelmente até as 23h59 de xx/xx/2024.
+* O trabalho *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de 03/07/2024.
 
-* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (xx/xx/2024)
+* Leia e atenda às [instrucoes.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/instrucoes.pdf) (23/04/2024)
 
-* Observe a formatação dos *templates* -->
+* Observe a formatação dos *templates*
+
+* Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.
 
 Copyright &copy; 2024 Alexandre Umpierre
 
