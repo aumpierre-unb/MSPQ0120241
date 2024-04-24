@@ -262,7 +262,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * Leia e atenda às *Instruções para Redação dos Trabalhos Extraclasse* dispostas no plano de ensino.
 
-* Observe a formatação dos *templates*
+* Observe a formatação dos *templates*.
 
 * Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.
 
