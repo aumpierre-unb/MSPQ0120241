@@ -268,6 +268,6 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 Copyright &copy; 2024 Alexandre Umpierre
 
-[Plano_de Ensino_Modelagem_e_Simulação_de_Processos_Químicos_20241_T01.pdf](https://github.com/aumpierre-unb/Plano_de Ensino_Modelagem_e_Simulação_de_Processos_Químicos_20241_T01.pdf)
+[Plano_de Ensino](https://github.com/aumpierre-unb/Plano_de Ensino_MSPQ_20241_T01.pdf)
 
-![https://aumpierre-unb.github.io/MSPQ0120241/](qrcode.png "https://aumpierre-unb.github.io/MSPQ0120241/")
+![Plano_de Ensino](qrcode.png "https://github.com/aumpierre-unb/Plano_de Ensino_MSPQ_20241_T01.pdf")
