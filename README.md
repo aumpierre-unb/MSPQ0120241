@@ -258,6 +258,8 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * [MSPQ01_HW1_20240423.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW1_20240423.pdf) (23/04/2024)
 
+* [MSPQ01_HW1_20240423_atualizacao.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW1_20240423_atualizacao.pdf) (07/05/2024)
+
 * O trabalho *HW*<sub>1</sub> deve ser entregue impreterivelmente até as 23h59 de 03/07/2024.
 
 * Leia atentamente e atenda às *Instruções para Redação dos Trabalhos Extraclasse* dispostas no plano de ensino.
