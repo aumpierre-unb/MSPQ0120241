@@ -252,7 +252,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 -### **Estudos dirigidos**
 
-[Estudo_Dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Estudo_Dirigido_1.pdf) (28/06/2024)
+* [Estudo_Dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Estudo_Dirigido_1.pdf) (28/06/2024)
 
 ### ***HW*<sub>1</sub>**
 
