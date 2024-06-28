@@ -250,9 +250,9 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 [exercicios_propostos_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/exercicios_propostos_1.pdf) (xx/xx/2024)-->
 
-<!--### **Estudos dirigidos**
+-### **Estudos dirigidos**
 
-[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/estudo_dirigido_1.pdf) (xx/xx/2024)-->
+[estudo_dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Estudo_Dirigido_1.pdf) (28/06/2024)
 
 ### ***HW*<sub>1</sub>**
 
