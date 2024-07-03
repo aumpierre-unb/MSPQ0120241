@@ -90,7 +90,7 @@ A avaliação substitutiva, se cabível, será aplicada com os mesmos critérios
 
 #### **Datas das avaliações (aguardando confirmação)**
 
-* *P*<sub>1</sub> - <strike>08/05/2024</strike> 10/07/2024
+* *P*<sub>1</sub> - <strike>08/05/2024</strike> 17/07/2024
 
 * *P*<sub>2</sub> - <strike>28/06/2024</strike> 30/08/2024
 
