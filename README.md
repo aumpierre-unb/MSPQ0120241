@@ -268,10 +268,10 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.-->
 
-Copyright &copy; 2024 Alexandre Umpierre
-
 [Plano_de_Ensino_MSPQ_20241_T01.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf)
 
 [Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf)
 
 <!-- ![Plano_de_Ensino_MSPQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf") -->
+
+Copyright &copy; 2024 Alexandre Umpierre
