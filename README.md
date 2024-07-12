@@ -254,7 +254,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * [Estudo_Dirigido_1.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Estudo_Dirigido_1.pdf) (28/06/2024)
 
-### ***HW*<sub>1</sub>**
+<!-- ### ***HW*<sub>1</sub>**
 
 * [MSPQ01_HW1_20240423.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/MSPQ01_HW1_20240423.pdf) (23/04/2024)
 
@@ -266,7 +266,7 @@ Além *observância às orientações e adequação das respostas*, como descrit
 
 * Observe a formatação dos *templates*.
 
-* Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.
+* Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.-->
 
 Copyright &copy; 2024 Alexandre Umpierre
 
