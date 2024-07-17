@@ -2,6 +2,12 @@
 
 ### Universidade de Brasília - Instituto de Química
 
+[Plano_de_Ensino_MSPQ_20241_T01.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf)
+
+[Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf)
+
+<!-- ![Plano_de_Ensino_MSPQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf") -->
+
 ## **Plano de Ensino**
 
 ### **Professor**
@@ -267,11 +273,5 @@ Além *observância às orientações e adequação das respostas*, como descrit
 * Observe a formatação dos *templates*.
 
 * Eventuais alterações serão dispostas nesta sessão da página e comunicadas através do email institucional.-->
-
-[Plano_de_Ensino_MSPQ_20241_T01.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf)
-
-[Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf](https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01_atualizado.pdf)
-
-<!-- ![Plano_de_Ensino_MSPQ_20241_T01.pdf](qrcode.png "https://github.com/aumpierre-unb/MSPQ0120241/raw/main/Plano_de_Ensino_MSPQ_20241_T01.pdf") -->
 
 Copyright &copy; 2024 Alexandre Umpierre
